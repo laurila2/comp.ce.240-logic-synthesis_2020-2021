@@ -1,0 +1,3 @@
+The state would move past the third digit even if it was wrong, the statement on line 67 should move to init. There are 4 states in the state machine.
+
+Creating automated tests is faster if the design is large. If only stimulus is needed and not automatic checking of outputs force might be faster.

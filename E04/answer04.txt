@@ -1,0 +1,10 @@
+
+- Adder is harder to produce.
+  Adder tree is unbalanced.
+
+- Diffrences between VHDL's architecture levels structural and RTL are:
+  In RTL only basic components (gates, flip flops, etc.) are made.
+  In structural architecture is only for hierarcial components.
+
+- Hierarchical design is implemented in VHDL with structural architecture.
+

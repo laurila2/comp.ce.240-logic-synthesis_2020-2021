@@ -1,0 +1,11 @@
+1) Brief textual description of your processes
+
+ 
+
+
+
+2) The missing configuration values from the table and where you found them
+
+ Found from DA7212 Ultra-Low Power Stereo Coded datasheet 
+ DAI_CLK_MODE : page 75 : 0000 0000
+ DAI_CTRL     : page 76 : 1000 0001

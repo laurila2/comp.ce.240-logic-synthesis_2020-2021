@@ -1,0 +1,32 @@
+Post implementation results:
+	LUTs: 250 0,47%
+	FFs: 223 0,21%
+	IOs: 16 12,8%
+	PLLs: 1 25%
+
+By block
+	Slice LUTs / Slice registers / Slice
+I2C controller:
+	74 / 144 / 51
+Wave gens:
+	41 / 17 / 11
+	27 / 17 / 8
+	39 / 16 / 12
+	22 / 15 / 6
+Multiport adder:
+	17 / 47 / 15
+Audio ctrl:
+	26 / 32 / 12
+
+
+Timing:
+	clk_out1
+		period 20
+		WNS 15.138
+		Max freq 205 MHz
+	clk_out2
+		period 81.379
+		WNS 77.738
+		Max freq 274 MHz
+
+Synthesis worked with own synthesizer, however sound was not pleasant.

@@ -1,1 +1,1 @@
- # logic_synthesis
+COMP.CE.240 Logic Synthesis
